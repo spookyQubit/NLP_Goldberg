@@ -16,6 +16,6 @@
    * Automatic differentiation/flow gragh tutorial and do an example. 
    
 ### Conda basics
-   * mkdir conda_env_dunet_py2
-   * cd conda_env_dunet_py2
-   * conda create -n dynetPy2 python=2
+   * cd /home/shantanu/miniconda2/bin
+   * ./conda create -n dynet_py2 python=2
+   * cd /home/shantanu/miniconda2/envs/dynet_py2

@@ -12,3 +12,5 @@
    * Instead of going for the kernel trick, where the user has to pick the non-linear transformation before hand based on experience, one can have a different approach and define a trainable nonlinear mapping function, and train it in conjunction with the linear classifier. This is exactly what a NN does. See the example for XOR. 
 ### Feed-forward Neural Networks (Chapter 4)
    * Any theoretical basis as to why ReLU works better than sigmoid? Saturation??
+### Neural Network Training (Chapter 5)
+   * Automatic differentiation/flow gragh tutorial and do an example. 

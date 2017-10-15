@@ -15,7 +15,14 @@
 ### Neural Network Training (Chapter 5)
    * Automatic differentiation/flow gragh tutorial and do an example. 
    
-### Conda basics
+### Installing DyNet in Conda
    * cd /home/shantanu/miniconda2/bin
    * ./conda create -n dynet_py2 python=2
-   * cd /home/shantanu/miniconda2/envs/dynet_py2
+   * cd /home/shantanu/miniconda2/envs/dynet_py2/
+      * sudo apt-get update
+      * sudo apt-get install python-pip build-essential cmake mercurial
+      * sudo ./pip install cython
+      * sudo ./pip install git+https://github.com/clab/dynet#egg=dynet
+      * cd /home/shantanu/miniconda2/bin 
+      * source  activate ../envs/dynet_py2
+      

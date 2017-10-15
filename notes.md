@@ -1,6 +1,6 @@
 ## Chaper 1
 ```
-SGD Techniques
+# SGD Techniques
  * SGD+Momentum
  * Nestrov Momentum
  * AdaGrad

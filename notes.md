@@ -14,3 +14,8 @@
    * Any theoretical basis as to why ReLU works better than sigmoid? Saturation??
 ### Neural Network Training (Chapter 5)
    * Automatic differentiation/flow gragh tutorial and do an example. 
+   
+### Conda basics
+   * mkdir conda_env_dunet_py2
+   * cd conda_env_dunet_py2
+   * conda create -n dynetPy2 python=2
